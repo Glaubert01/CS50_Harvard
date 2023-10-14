@@ -1,11 +1,12 @@
-#include <cs50.h>  // Adiciona a biblioteca do CS50
-#include <stdio.h>  // Adiciona a biblioteca standard
+#include <cs50.h>  // Adds CS50 library
+#include <stdio.h>  // Adds the Standard library
+
 
 int main(void)
 {
 
-    // get_string é uma função específica da biblioteca do CS50!
-
-    string nome = get_string("Qual é seu nome? \n");
-    printf("Olá, %s \n", nome);
+    // get_string is a specific function from the CS50 library!
+    
+    string name = get_string("What's your name? \n");
+    printf("Hello, %s \n", name);
 }
