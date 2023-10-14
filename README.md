@@ -3,43 +3,45 @@ This is a repository dedicated to Harvard's CS50 course. Here you will find all 
 
 Separated by: Week, language, name of each one: For more details, see the README of each exercise (some are not yet ready).
 
- PSET 1 - C
+- [x] PSET 1 - C
+    * Hello
+    * cash
+    * mario-less
 
-Hello
-cash
-mario-less
- PSET 2 - C
+- [x] PSET 2 - C
+    * readability
+    * substitution
 
-readability
-substitution
- PSET 3 - C
+- [x] PSET 3 - C
+    * plurality
+    * runoff
 
-plurality
-runoff
- PSET 4 - C
+- [x] PSET 4 - C
+    * filter
+    * recover
 
-filter
-recover
- PSET 5 - C
+- [x] PSET 5 - C
+    * speller
 
-speller
- PSET 6 - Python
+- [x] PSET 6 - Python
+    * Hello
+    * mario-more
+    * cash
+    * readability
+    * DNA
 
-Hello
-mario-more
-cash
-readability
-DNA
- PSET 7 - SQL
+- [x] PSET 7 - SQL
+    * Movies
+    * Houses
 
-Movies
-Houses
- Tracks: Games
+- [x] Tracks: Games
+    * Pong
+    * Mario
 
-Pong
-Mario
- Final project
+- [x] Final project
+    * Game Atari Brekout
+    * Presentation video
+    * Form submission
 
-Game Atari Breakout
-Presentation video
-Form submission
+<br/>
+
